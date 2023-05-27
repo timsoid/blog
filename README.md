@@ -1,0 +1,2 @@
+# blog
+WWW demo blog
